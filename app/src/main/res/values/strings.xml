@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TheNews</string>
+    <string name="title_activity_main">TheNews</string>
+    <string name="bt_lernews">LER NOTÍCIAS</string>
+    <string name="bt_sair">SAIR</string>
+    <string name="bt_entrar">ENTRAR</string>
+    <string name="bt_cadastro">Cadastre-se</string>
+    <string name="api_key">e6a60b6fb6f149fbb2a86e2c62d92e4a</string>
+    <string name="hint_usuario">Usuário</string>
+    <string name="hint_senha">Senha</string>
+    <string name="login_art">login_art</string>
+    <string name="novoUser">Não tem uma conta?</string>
+</resources>
